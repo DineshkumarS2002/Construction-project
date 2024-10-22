@@ -1,0 +1,105 @@
+
+.heading {
+    position: fixed;
+    top: 0 !important;
+    z-index: 1;
+    background-color: white;
+  }
+
+@media screen and (max-width:570px) {
+    .sec2 .our{
+        font-size: 24px;
+    }
+    .sec2 .our1{
+        font-size: 14px;
+    }
+}
+
+.sec3 .pic1{
+    background-image: url(./asset/1b4f72.png);
+    
+}
+@media screen and (max-width:570px) {
+
+    .sec3 .pic{
+        display: none;
+    }
+    
+    .about{
+        font-size: 24px;
+    }
+    .para{
+        font-size: 14px;
+    }
+
+}
+
+.sec3 .bg{
+    background-color: #F7DC6F;
+    
+}
+
+
+@media screen and (max-width:500px) {
+    .sec4 .last{
+        font-size: 26px;
+    }
+}
+.sec5{
+    background-image: url(./asset/ban1@2x.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.sec6{
+    background-color: rgba(192, 192, 192, 0.564);
+  
+}
+@media screen and (max-width:500px) {
+    
+    .sec6 .Latest{
+        font-size: 24px;
+    }
+}
+.sec8{
+   
+    background-color: #1B4F72;
+}
+
+.sec9{
+    background-color: #333;
+}
+
+.sec10{
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

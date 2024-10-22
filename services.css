@@ -1,0 +1,23 @@
+.heading{
+    background-color: white;
+    height: auto;
+}
+.heading {
+    position: fixed;
+    top: 0 !important;
+    z-index: 1;
+  }
+
+.sec2{
+
+    background-color: #1B4F72;
+}
+
+.sec3{
+  
+    background-color: #333;
+}
+
+.sec4{
+    background-color:black;
+}
